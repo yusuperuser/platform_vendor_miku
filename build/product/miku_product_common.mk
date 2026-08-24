@@ -49,7 +49,6 @@ PRODUCT_PACKAGES += MikuUIMusicCenter
 endif
 
 PRODUCT_PACKAGES += \
-    Gboard \
     LiveWallpapersPicker \
     MUBB \
     MULS_Dummy \
