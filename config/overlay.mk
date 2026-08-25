@@ -11,5 +11,6 @@ PRODUCT_PACKAGES += \
     MikuNetworkStackOverlay \
     MikuSettingsOverlay \
     MikuSettingsProviderOverlay \
-    MikuSystemUIOverlay
+    MikuSystemUIOverlay \
+    TrueDarkThemeOverlay
 
