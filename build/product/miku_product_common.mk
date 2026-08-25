@@ -51,7 +51,6 @@ endif
 PRODUCT_PACKAGES += \
     LiveWallpapersPicker \
     MUBB \
-    MULS_Dummy \
     PartnerBookmarksProvider \
     ThemePicker \
     ThemesStub
